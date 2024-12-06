@@ -1,0 +1,9 @@
+[submodule "deps/CTypes"]
+	path = deps/CTypes
+	url = https://github.com/Jomy10/CTypes
+[submodule "deps/defer"]
+	path = deps/defer
+	url = https://github.com/Jomy10/defer
+[submodule "deps/hashmap.c"]
+	path = deps/hashmap.c
+	url = https://github.com/tidwall/hashmap.c
